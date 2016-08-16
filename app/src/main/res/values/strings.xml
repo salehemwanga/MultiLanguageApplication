@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MultiLanguageApplication</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_devinfo">Developer</string>
+    <string name="share_app">Share App</string>
+    <string name="language_setting">Change Language</string>
+    <string name="action_change_pass">Change Password</string>
+    <string name="hello_world">Hello World</string>
+    <string name="another_activity">Welcome home Salehe</string>
+
+    <!-- Language select dialog -->
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+    <string name="title_activity_activity_two">ActivityTwo</string>
+</resources>
